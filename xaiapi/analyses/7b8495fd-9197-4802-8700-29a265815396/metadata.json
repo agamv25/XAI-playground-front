@@ -1,0 +1,1 @@
+{"analysis_id": "7b8495fd-9197-4802-8700-29a265815396", "dataset_stats": {"rows": 891, "features": 7, "missing": 0, "data_types": {"PassengerId": "int64", "Survived": "int64", "Pclass": "int64", "Age": "float64", "SibSp": "int64", "Parch": "int64", "Fare": "float64"}}, "model_type": "RandomForestClassifier"}
